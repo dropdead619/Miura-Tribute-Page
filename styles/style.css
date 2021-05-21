@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+}
+
+body {
+    font-style: normal;
+    font-family: 'Courier New', Courier;
+    color: white;
+}
+
+header {
+    height: 110px;
+    background-color: rgb(22, 21, 21);
+    margin-top: 10px;
+    display: flex;
+}
+
+#title {
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+p, h1 {
+    margin: 0 auto;
+}
